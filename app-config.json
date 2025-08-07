@@ -4,9 +4,9 @@
   }
 }
 {
-"com.example.app_kill_switch": {
-"enabled": false,
-"redirect_url": "https://jenisha28.github.io/app-kill-switch/blocked.html",
-"message": "This app has been disabled. Contact support@example.com."
-}
+  "com.example.app_kill_switch": {
+    "enabled": false,
+    "redirect_url": "https://jenisha28.github.io/app-kill-switch/blocked.html",
+    "message": "This app has been disabled. Contact support@example.com."
+  }
 }
