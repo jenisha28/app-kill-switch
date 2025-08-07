@@ -1,5 +1,5 @@
 {
-  "com.yourcompany.yourapp": {
+  "com.example.app_kill_switch": {
     "enabled": false
   }
 }
